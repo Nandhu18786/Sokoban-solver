@@ -106,8 +106,3 @@ The game is based on the classic Sokoban puzzle where the objective is to push b
 
 ---
 
-## Credits
-
-- **Game Design and Implementation**: Created by [Your Name].
-- **Images**: Custom images for walls, player, boxes, and goals.
-- **Algorithm**: BFS-based solution for the Sokoban puzzle.
