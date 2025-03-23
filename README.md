@@ -1,4 +1,3 @@
-# Sokoban-solver
 # Sokoban Game with Tkinter GUI - README
 
 This project implements a Sokoban game using Python's Tkinter library. The game presents a series of puzzles where the player must push boxes to their target locations within a grid. The game includes three levels of increasing difficulty, each with its own unique layout and challenges. The user can play manually or use an automated solver to complete the levels.
